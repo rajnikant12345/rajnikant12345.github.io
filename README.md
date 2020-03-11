@@ -32,7 +32,7 @@
     <th>Components Worked</th>
   </tr>
   <tr>
-    <td> **Next Generation KeySecure** </td>
+    <td> <b>Next Generation KeySecure</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td>Thales</td>
      <td>https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/</td>
