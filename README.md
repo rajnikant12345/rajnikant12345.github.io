@@ -45,6 +45,12 @@
     <td><b>Thales</b></td>
     <td width="60%" ><ul><li>Protect Database</li><li>Microsoft CSP</li><li>Microsoft CNG</li><li>LUKS Encryption</li><li>PKCS11</li></ul> </td>
   </tr>
+  <tr>
+    <td width="20%" ><b>SIEM Server and Agents</b> </td>
+    <td>C, C++ , HTML, and JavaScript</td>
+    <td><b>Samsung</b></td>
+    <td width="60%" ><ul><li>Server</li><li>Network Interceptor</li><li>Event Processor</li><li>Data Display</li><li>PKCS11</li></ul> </td>
+  </tr>
 </table>
 
 
