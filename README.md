@@ -1,7 +1,5 @@
-## Rajni Kant
-**Email** : rajnikant12345@live.com  
-**Mobile:** 919717170211  
-**Location:**  Noida, Uttar Pradesh, India
+## Rajni Kant ( rajnikant12345@live.com  , 919717170211 , Noida )
+
 ### Summary
 
 
