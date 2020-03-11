@@ -20,6 +20,9 @@
 
 **System Design:** *Microservices, Docker, Databases ( RDBMS and NoSQL ), Message Queues, IPC, Multithreading, Concurrency, or I may figure out something new.*
 
+**Operating Systems:** *Linux and Windows.*
+
+
 
 
 
