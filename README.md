@@ -23,22 +23,18 @@
 **Operating Systems/Cloud:** *Linux, Windows, AWS.*
 
 ## Projects
-* **Next Generation Key Secure**
-    <table style="width:100%">
+<table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Project Name</th>
+    <th>Technology Used</th>
+    <th>Company</th>
+    <th>Description</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Next Generation KeySecure</td>
+    <td>C, C++, GoLang, Docker, Microservices </td>
+    <td>Thales</td>
+     <td>Small desription.</td>
   </tr>
 </table>
 
