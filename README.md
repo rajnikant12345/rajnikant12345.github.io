@@ -20,6 +20,9 @@
 
 **System Design:** *Microservices, Docker, Databases ( RDBMS and NoSQL ), Message Queues, IPC, Multithreading, Concurrency, or I may figure out something new.*
 
+**Domain Skills:** **System Programming**, **Security**, **Encryption**, **Lawful Interception**, **System Architecture**, **Scalable and Distributed Systems** and associated technologies, **PKI**, **RSA**, **AES**, **AES-GCM**, **KMIP**, **PKCS11**, **ECDSA**
+
+
 **Operating Systems/Cloud:** *Linux, Windows, AWS.*
 
 ## Projects Worked
@@ -40,7 +43,7 @@
     <td><b>KeySecure Connectors</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td><b>Thales</b></td>
-    <td><ul><li>Protect Database</li><li>Microsoft CSP</li><li>Microsoft CNG</li><li> LUKS Encryption</li></ul> </td>
+    <td><ul><li>Protect Database</li><li>Microsoft CSP</li><li>Microsoft CNG</li><li>LUKS Encryption</li><li>PKCS11</li></ul> </td>
   </tr>
 </table>
 
