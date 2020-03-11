@@ -34,16 +34,16 @@
     <th>Components Worked</th>
   </tr>
   <tr>
-    <td><b>Next Generation KeySecure ( https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/ )</b> </td>
+    <td width="20%" ><b>Next Generation KeySecure ( https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/ )</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td><b>Thales</b></td>
-    <td><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li>      <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li><li>Logging</li><li>Client Registration and Auto registration</li></ul> </td>
+    <td width="60%" ><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li>      <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li><li>Logging</li><li>Client Registration and Auto registration</li></ul> </td>
   </tr>
   <tr>
-    <td><b>KeySecure Connectors</b> </td>
+    <td width="20%" ><b>KeySecure Connectors</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td><b>Thales</b></td>
-    <td><ul><li>Protect Database</li><li>Microsoft CSP</li><li>Microsoft CNG</li><li>LUKS Encryption</li><li>PKCS11</li></ul> </td>
+    <td width="60%" ><ul><li>Protect Database</li><li>Microsoft CSP</li><li>Microsoft CNG</li><li>LUKS Encryption</li><li>PKCS11</li></ul> </td>
   </tr>
 </table>
 
