@@ -66,7 +66,8 @@
 </table>
 
 ## Awards and Recognition
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+* Received Inventor Award in 2019
+
 
 
 
