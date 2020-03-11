@@ -20,7 +20,7 @@
 * https://github.com/landley/toybox/blob/master/toys/pending/dhcp6.c
 
 ## Patent
-* Application No: 201911019131 , is under process by Indian Patent Office
+* Application No: 201911019131 ( Block Chain ) , is under process by Indian Patent Office
 
 ## Technology
 **Programming Languages:** *C, C++, Golang, JavaScript, HTML, CSS, Bash Scripting, or I can work on any language with short learning curve.*
