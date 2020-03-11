@@ -28,15 +28,13 @@
     <th>Project Name</th>
     <th>Technology Used</th>
     <th>Company</th>
-    <th>Description</th>
     <th>Components Worked</th>
   </tr>
   <tr>
     <td> <b>Next Generation KeySecure</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td>Thales</td>
-    <td>https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/</td>
-    <td><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li> <li>Multiple Interfaces</li> <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li> <li>Logging etc.<li></ul> </td>
+    <td><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li> <li>Multiple Interfaces</li> <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li> <li>Logging etc.</li></ul> </td>
   </tr>
 </table>
 
