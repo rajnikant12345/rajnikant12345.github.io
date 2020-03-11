@@ -1,7 +1,7 @@
 ## Rajni Kant 
 *rajnikant12345@live.com*<br/>
 *919717170211*<br/>  
-*Noida*<br/>
+*Noida*
 
 ### Summary
 I have 11 years of software development experience, mostly on products. I am good at system design, networking, coding, data structures, and algorithms. In short, I have experienced working on multiple programming languages like C, C++, Golang, JS, HTML, and solved many products related problems.<br/> 
