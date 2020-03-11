@@ -20,7 +20,7 @@
 
 **System Design:** *Microservices, Docker, Databases ( RDBMS and NoSQL ), Message Queues, IPC, Multithreading, Concurrency, or I may figure out something new.*
 
-**Domain Skills:** **System Programming**, **Security**, **Encryption**, **Lawful Interception**, **System Architecture**, **Scalable and Distributed Systems** and associated technologies, **PKI**, **RSA**, **AES**, **AES-GCM**, **KMIP**, **PKCS11**, **ECDSA**
+**Domain Skills:** *System Programming, Security, Encryption, Lawful Interception, System Architecture, Scalable and Distributed Systems and associated technologies, PKI, RSA, AES, AES-GCM, KMIP, PKCS11, ECDSA*
 
 
 **Operating Systems/Cloud:** *Linux, Windows, AWS.*
@@ -37,7 +37,7 @@
     <td><b>Next Generation KeySecure ( https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/ )</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td><b>Thales</b></td>
-    <td><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li>      <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li> <li>Logging etc.</li></ul> </td>
+    <td><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li>      <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li><li>Logging</li><li>Client Registration and Auto registration</li></ul> </td>
   </tr>
   <tr>
     <td><b>KeySecure Connectors</b> </td>
