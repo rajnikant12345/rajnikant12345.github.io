@@ -15,6 +15,10 @@
 * Persistent Systems, Pune **( Senior Software Engineer )**, *Worked from April 2010 to December 2010.*
 * Clear Trail Technologies, Noida **( Software Engineer )**, *Worked from August 2008 to March 2010.*
 
+## Technology
+**Programming Languages:**: *C, C++, Golang, JavaScript, HTML, CSS, Bash Scripting, or I can work on any language with short learning curve.*
+
+
 
 
 
