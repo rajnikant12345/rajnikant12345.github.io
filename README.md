@@ -8,11 +8,11 @@
 * I am practically well versed in microservices and docker technology and capable of designing a complete system based on it.
 
 ## Experience
-1. Thales , Noida **( Solution Architect)**
-2. Samsung R&D INstitute Delhi **( Lead Engineer )**
-3. Symantec , Pune **( Software Engineer)**
-4. Persistent Systems **( Senior Software Engineer )**
-5. Clear Trail Technologies **( Software Engineer )**
+* Thales , Noida **( Solution Architect)** , *Worked From April 2016 till Present.*
+* Samsung R&D INstitute Delhi **( Lead Engineer )**, *Worked from February 2013 to April 2016.*
+* Symantec , Pune **( Software Engineer)**, *Worked from January 2011 to February 2013.*
+* Persistent Systems, Pune **( Senior Software Engineer )**, *Worked from April 2010 to December 2010.*
+* Clear Trail Technologies, Noida **( Software Engineer )**, *Worked from August 2008 to March 2010.*
 
 
 
