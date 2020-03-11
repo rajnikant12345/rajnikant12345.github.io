@@ -36,7 +36,7 @@
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td>Thales</td>
     <td>https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/</td>
-    <td>Networked Attached Encryption, KMIP, Core Key Management, Multiple Interfaces, REST, API Gateway, Reverse Proxy, Logging etc. </td>
+    <td><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li> <li>Multiple Interfaces</li> <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li> <li>Logging etc.<li></ul> </td>
   </tr>
 </table>
 
