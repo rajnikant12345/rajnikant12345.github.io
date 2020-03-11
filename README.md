@@ -15,6 +15,13 @@
 * Persistent Systems, Pune **( Senior Software Engineer )**, *Worked from April 2010 to December 2010.*
 * Clear Trail Technologies, Noida **( Software Engineer )**, *Worked from August 2008 to March 2010.*
 
+## Open Source Contributions
+* https://github.com/landley/toybox/blob/master/toys/pending/ip.c
+* https://github.com/landley/toybox/blob/master/toys/pending/dhcp6.c
+
+## Patent
+* Application No: 201911019131 , is under process by Indian Patent Office
+
 ## Technology
 **Programming Languages:** *C, C++, Golang, JavaScript, HTML, CSS, Bash Scripting, or I can work on any language with short learning curve.*
 
