@@ -17,6 +17,7 @@
 
 ## Technology
 **Programming Languages:** *C, C++, Golang, JavaScript, HTML, CSS, Bash Scripting, or I can work on any language with short learning curve.*
+
 **System Design:** *Microservices, Docker, Databases ( RDBMS and NoSQL ), Message Queues, IPC, Multithreading, Concurrency, or I may figure out many new things.*
 
 
