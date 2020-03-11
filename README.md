@@ -22,19 +22,20 @@
 
 **Operating Systems/Cloud:** *Linux, Windows, AWS.*
 
-## Projects
+## Projects Worked
 <table>
   <tr>
     <th>Project Name</th>
     <th>Technology Used</th>
     <th>Company</th>
     <th>Description</th>
+    <th>Components Worked</th>
   </tr>
   <tr>
     <td>Next Generation KeySecure</td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td>Thales</td>
-     <td>Small desription.</td>
+     <td>https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/</td>
   </tr>
 </table>
 
