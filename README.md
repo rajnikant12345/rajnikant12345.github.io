@@ -9,13 +9,6 @@
 * I am practically well versed in **microservices and docker** technology and capable of designing a complete system based on it.
 * I can solve problems like **performance**, **scalability**, **availability**, **security**. 
 
-## Experience
-* Thales , Noida **( Solution Architect)** , *Worked From April 2016 till Present.*
-* Samsung R&D INstitute Delhi **( Lead Engineer )**, *Worked from February 2013 to April 2016.*
-* Symantec , Pune **( Software Engineer)**, *Worked from January 2011 to February 2013.*
-* Persistent Systems, Pune **( Senior Software Engineer )**, *Worked from April 2010 to December 2010.*
-* Clear Trail Technologies, Noida **( Software Engineer )**, *Worked from August 2008 to March 2010.*
-
 ## Open Source Contributions
 * https://github.com/landley/toybox/blob/master/toys/pending/ip.c
 * https://github.com/landley/toybox/blob/master/toys/pending/dhcp6.c
@@ -32,6 +25,13 @@
 
 
 **Operating Systems/Cloud:** *Linux, Windows, AWS.*
+
+## Experience
+* Thales , Noida **( Solution Architect)** , *Worked From April 2016 till Present.*
+* Samsung R&D INstitute Delhi **( Lead Engineer )**, *Worked from February 2013 to April 2016.*
+* Symantec , Pune **( Software Engineer)**, *Worked from January 2011 to February 2013.*
+* Persistent Systems, Pune **( Senior Software Engineer )**, *Worked from April 2010 to December 2010.*
+* Clear Trail Technologies, Noida **( Software Engineer )**, *Worked from August 2008 to March 2010.*
 
 ## Projects Worked
 <table>
