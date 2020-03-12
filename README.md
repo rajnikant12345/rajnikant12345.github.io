@@ -63,6 +63,7 @@
     <td>C, C++ </td>
     <td><b>Symantec</b></td>
     <td width="60%" ><ul><li>Content Scanning API</li><li>Onboard Antivirus</li></ul> </td>
+   </tr>
 </table>
 
 ## Awards and Recognition
