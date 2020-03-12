@@ -67,6 +67,13 @@
    </tr>
 </table>
 
+## Unique Contributions, I Loved
+* Written KMIP ( Key Managemant Interoperability Protocol ) server and parser.
+* Designed multiple port opener in docker scenario, it doesn't require container restart.
+* DHCP6 client, open source.
+* Microsoft Cryptographic Providers
+
+
 ## Awards and Recognition
 * Received Inventor Award in 2019.
 
