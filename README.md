@@ -1,4 +1,5 @@
 ## Rajni Kant 
+## Contact Information
 *rajnikant12345@live.com*<br/>*919717170211*<br/>*Noida*
 
 ## Summary
@@ -76,7 +77,9 @@
 ## Personal Information 
 * Currently Based in Noida.
 * Married.
-* Rest is available on request.
+* Any other information is available on request.
+
+
 
 
 
