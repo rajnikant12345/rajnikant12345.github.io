@@ -35,10 +35,10 @@
 ## Projects Worked
 <table>
   <tr>
-    <th>Project Name</th>
+    <th width="20%">Project Name</th>
     <th>Technology Used</th>
     <th>Company</th>
-    <th>Components Worked</th>
+    <th width="60%">Components Worked</th>
   </tr>
   <tr>
     <td width="20%" ><b>Next Generation KeySecure ( https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/ )</b> </td>
