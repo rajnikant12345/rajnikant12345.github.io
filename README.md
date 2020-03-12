@@ -41,8 +41,7 @@
     <th width="60%">Components Worked</th>
   </tr>
   <tr>
-    <td width="20%" ><b>Next Generation KeySecure
- ( https://safenet.gemalto.com/data-encryption/enterprise-key-management/key-secure/ )</b> </td>
+    <td width="20%" ><b>Next Generation KeySecure</b> </td>
     <td>C, C++, GoLang, Docker, Microservices </td>
     <td><b>Thales</b></td>
     <td width="60%" ><ul><li>Networked Attached Encryption</li><li>KMIP</li><li>Core Key Management</li><li>Multiple Interfaces</li>      <li>REST</li> <li>API Gateway</li> <li>Reverse Proxy</li><li>Logging</li><li>Client Registration and Auto registration</li></ul> </td>
