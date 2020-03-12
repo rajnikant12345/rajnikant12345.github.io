@@ -1,4 +1,4 @@
-## Rajni Kant ( Download PDF Copy )
+## Rajni Kant ( [Download PDF](https://rajnikant12345.github.io/Resume.pdf) )
 ## Contact Information
 *rajnikant12345@live.com*<br/>*919717170211*<br/>*Noida*
 
