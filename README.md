@@ -28,7 +28,7 @@
 
 ## Experience
 * Thales , Noida **( Solution Architect)** , *Worked From April 2016 till Present.*
-* Samsung R&D INstitute Delhi **( Lead Engineer )**, *Worked from February 2013 to April 2016.*
+* Samsung R&D Institute Delhi **( Lead Engineer )**, *Worked from February 2013 to April 2016.*
 * Symantec , Pune **( Software Engineer)**, *Worked from January 2011 to February 2013.*
 * Persistent Systems, Pune **( Senior Software Engineer )**, *Worked from April 2010 to December 2010.*
 * Clear Trail Technologies, Noida **( Software Engineer )**, *Worked from August 2008 to March 2010.*
@@ -71,7 +71,7 @@
 * Received Inventor Award in 2019.
 
 ## Education
-* B.E. Electronics and Communication from KEC Dearahat.
+* B.E. Electronics and Communication from KEC Dwarahat.
 * X ans Xii from DAV Meerut.
 
 ## Personal Information 
