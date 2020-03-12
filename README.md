@@ -77,7 +77,7 @@
 ## Personal Information 
 * Currently Based in Noida.
 * Married.
-* Any other information is available on request.
+* Any other information is available on request. ( GDPR )
 
 
 
