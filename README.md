@@ -67,7 +67,17 @@
 </table>
 
 ## Awards and Recognition
-* Received Inventor Award in 2019
+* Received Inventor Award in 2019.
+
+## Education
+* B.E. Electronics and Communication from KEC Dearahat.
+* X ans Xii from DAV Meerut.
+
+## Personal Information 
+* Currently Based in Noida.
+* Married.
+* Rest is available on request.
+
 
 
 
